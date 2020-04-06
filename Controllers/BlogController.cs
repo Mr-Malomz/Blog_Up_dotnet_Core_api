@@ -7,7 +7,6 @@ using blogUp.Models;
 using blogUp.Models.Context;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
 
 namespace blogUp.Controllers
 {
